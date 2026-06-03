@@ -1,0 +1,27 @@
+{
+  "name": "创业规划打卡APP",
+  "short_name": "创业打卡",
+  "description": "用30秒记录今天有没有创业行动。",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#1f2937",
+  "orientation": "portrait-primary",
+  "lang": "zh-CN",
+  "categories": ["productivity", "business"],
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
